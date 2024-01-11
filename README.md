@@ -1,11 +1,11 @@
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Trần+Tiến+Dũng" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">A student from University of Transport and Communications</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/hoan02/hoan02/blob/main/assets/coding-freak.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dungtran31&label=Profile%20views&color=0e75b6&style=flat" alt="dungtran31"/> </p>
 
-# 💫 About Me:
+## <p align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ABOUT ME <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="40px" /></p>
 🌱 I’m currently learning Unity, UE5, ComputerVision, etc<br><br>📫 How to reach me ttd0301@gmail.com
 
 
@@ -21,8 +21,11 @@
 
 # 📊 GitHub Stats:
 ![snake gif](https://github.com/NaomiLe1811/NaomiLe1811/blob/output/github-contribution-grid-snake.gif)
-![](https://github-readme-stats.vercel.app/api?username=DungTran31&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DungTran31&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<div align="left">
+<!--   "https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=percentile" -->
+<img height="125px" src="https://github-readme-stats.vercel.app/api?username=DungTran31&show_icons=true&theme=dracula" />
+<img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DungTran31&hide=html&layout=compact&theme=dracula" />
+</div>
 
 # Popular repositories:
 <a href="https://github.com/DungTran31/laptrinhonline.club">
