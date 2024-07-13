@@ -44,11 +44,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DungTran31&repo=EndlessRunner-Game&theme=cobalt" />
 </a>
-
-<a href="https://github.com/DungTran31/FlappyBird-Game-v2">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DungTran31&repo=FlappyBird-Game-v2&theme=synthwave" />
-</a>    
 <a href="https://github.com/DungTran31/Unity_Cheat_Sheet">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DungTran31&repo=Unity_Cheat_Sheet&theme=highcontrast" />
